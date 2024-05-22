@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django to enhance my backend development skills.
 - 💞️ I’m looking to collaborate on innovative web applications and community-driven software projects.
 - 📫 You can reach me via email at ashwiniwatkar56@gmail.com or connect with me on LinkedIn.
-- 😄 Pronouns: ashu
+- 😄 Pronouns: Ashwini
 - ⚡ Fun fact:  I love participating in coding challenges.
 
 <!---
